@@ -8,7 +8,7 @@ do
 			telegram-cli -W -e "msg Houston_Furry_Friends_{NC-17} '@Shadow_Stallion94 @Hellfyre @Nited please check the logs. If you are unsure how to do so, please say !help'"
 			else echo not found
 		fi
-		if grep -a -F "!uptime" templog.txt | grep {NC-17}; then
+		if grep -a -F "!uptime" templog.txt; then
 			VAR=$(grep -a _F "!uptime" templog.txt | cut -b 86-133)
 			UP=$(uptime -p)
 			(echo "reply $VAR I have been $UP") | telegram-cli -W -N --permanent-msg-ids
