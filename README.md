@@ -1,7 +1,7 @@
 # Telegram-Bot
 A bot written in BASH for telegram logging/admin duties.
 
-Installer assumes you're running on an Ubuntu/Debian server with sudo and snap installed. 
+Installer assumes you're running on an Ubuntu/Debian server with sudo and snap installed, and that you already have a telegram account set up to use it from.
 
 how to install:
 
