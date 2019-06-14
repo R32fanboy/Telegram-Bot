@@ -11,6 +11,9 @@ chmod +x installer.sh
 
 ./installer.sh
 
+
+
+
 Current functions:
 will log when a user joins your chat for you to be able to find out what link they used to join. 
 
