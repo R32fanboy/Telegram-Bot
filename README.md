@@ -5,7 +5,7 @@ Installer assumes you're running on an Ubuntu/Debian server with sudo and snap i
 
 how to install:
 
-git clone https://github.com/R32fanboy/Telegram-Bot && cd Telegram-bot
+git clone https://github.com/R32fanboy/Telegram-Bot && cd Telegram-Bot
 
 chmod +x installer.sh
 
