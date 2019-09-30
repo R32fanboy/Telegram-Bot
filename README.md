@@ -1,6 +1,8 @@
 # Telegram-Bot
 A bot written in BASH for telegram logging/admin duties.
 
+Resources required: A physical or virtual instance of some sort of linux server. Runs perfectly fine in a Digital Ocean droplet with a single vCPU and 1gb of ram, could be made to use less if containerized. 
+
 Installer assumes you're running on an Ubuntu/Debian server with sudo and snap installed, and that you already have a telegram account set up to use it from.
 
 how to install:
